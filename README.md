@@ -1,8 +1,8 @@
-#Machine-Learning
+# Machine-Learning
 
 The Programming assignments submitted in Octave programming language while taking the Machine Learning course by Andrew-Ng, Stanford on Coursera.
 
-#####Date of starting the course - 1st July,2017 
+##### Date of starting the course - 1st July,2017 
 
 ## Project License
 ```
